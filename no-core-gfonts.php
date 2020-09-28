@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: No Google Fonts
+ * Plugin Name: Remove Core Editor Google Font
  * Plugin URI: https://github.com/aristath/no-core-gfonts
  * Description: Removes Core Google Fonts from the WordPress editor.
  * Requires at least: 5.5
